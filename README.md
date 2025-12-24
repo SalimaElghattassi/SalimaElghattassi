@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Developer
+# Backend Developer 👨‍💻
 
 ### Hi there, I'm Salima EL Ghattassi 👋
 A dedicated **Backend Developer** specializing in building  web applications with **Laravel** and modern PHP practices.
