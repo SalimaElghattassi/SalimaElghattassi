@@ -7,8 +7,8 @@ A dedicated **Backend Developer** specializing in building  web applications wit
 
 ### 🛠 Tech Stack
 - **Framework:** <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="25" height="25"/> `Laravel`
-  </a> | `PHP`
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="25" height="25"/>  |`Laravel`
+   | `PHP`
 - **Databases:** `MySQL` | `MongoDB`
 - **Tools & Deployment:** `Docker` | `Git & GitHub` 
 - **Web:** `HTML5` | `CSS3` | `Bootstrap`
