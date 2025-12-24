@@ -16,8 +16,8 @@ A dedicated **Backend Developer** specializing in building  web applications wit
 ---
 
 ### 🔭 Current Focus & Projects
-* 🏛️ **Commune Web Portal:** Developed and deployed the official web platform for the commune.
-* 🏗️ **Inventory Management System:** Currently building a full-featured system (GESTION DES INVENTAIRES).
+* 🏛️ **Commune Web site:** Developed and deployed the official web platform for the commune.
+* 🏗️ **Inventory Management System:** building a full-featured system (GESTION DES INVENTAIRES).
 * 🚀 **Deployment Expert:** I handle the full lifecycle of the project from coding to server deployment.
 
 ---
