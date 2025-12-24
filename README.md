@@ -1,45 +1,34 @@
-<h1 align="center">Hi 👋, I'm Salima EL Ghattassi</h1>
-<h3 align="center">A passionate Backend Developer from Morocco 🇲🇦</h3>
+# 👨‍💻 Backend Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salimaelghattassi&label=Profile%20views&color=0e75b6&style=flat" alt="salimaelghattassi" />
-</p>
+### Hi there, I'm Salima EL Ghattassi 👋
+A dedicated **Backend Developer** specializing in building robust web applications with **Laravel** and modern PHP practices.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Inventory Management Systems (Laravel)** and **Local Government Web Solutions**.
-- 🌱 I’m deeply focused on mastering **Laravel Ecosystem** and **Advanced Backend Patterns**.
-- 💬 Ask me about **PHP, Laravel, and Database Design**.
-- 📫 Reach me on: **[Facebook](https://www.facebook.com/share/1bhtprjppe/)**
+### 🛠 Tech Stack
+- **Frameworks:** `Laravel` | `PHP`
+- **Databases:** `MySQL` | `MongoDB`
+- **Tools:** `Docker` | `Postman` | `Git & GitHub`
+- **Web:** `HTML5` | `CSS3` | `Bootstrap`
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/> </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-</p>
+### 🔭 Current Focus
+* 🏗️ Developing an **Inventory Management System** (GESTION DES INVENTAIRES).
+* 🌐 Building the **Commune Web Portal**.
+* ⚡ Optimizing Backend Performance and API Security.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimaelghattassi&show_icons=true&theme=radical" alt="Salima's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimaelghattassi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/1bhtprjppe/)
+[<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin">](#)
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+
+### 📊 Activity Overview
+![Salima's Activity](https://github-readme-stats.vercel.app/api?username=salimaelghattassi&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6)
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/766b/766b/main/assets/img/laravel.png" width="100" />
 </p>
